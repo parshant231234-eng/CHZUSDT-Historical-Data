@@ -8,9 +8,9 @@ An institutional-grade, open-source archive of cleaned, standardized, and valida
 - **Symbol:** `CHZUSDT`
 - **Market:** Binance Spot
 - **Timeframe:** 1 Minute (`1m`)
-- **Total Months:** `86` months
-- **Total Candles:** `3,749,811` 1-minute candles
-- **Historical Range:** `2019-09-06 04:00:00` to `2026-10-24 23:59:00` (UTC)
+- **Total Months:** `87` months
+- **Total Candles:** `3,769,971` 1-minute candles
+- **Historical Range:** `2019-09-06 04:00:00` to `2026-11-07 23:59:00` (UTC)
 - **Schema:** `timestamp, datetime_utc, open, high, low, close, volume, quote_volume, trade_count, taker_buy_volume, taker_buy_quote_volume`
 
 ---
